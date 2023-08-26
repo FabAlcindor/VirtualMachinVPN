@@ -1,4 +1,4 @@
-# VirtualMachinVPN
+# VirtualMachineVPN
 Set up a Virtual Machine and Virtual Private Network (VPN) using Microsoft Azure
 <h1>In this tutorial we will set up both a Virtual Machine and a VPN.<br />
 
@@ -17,7 +17,7 @@ Set up a Virtual Machine and Virtual Private Network (VPN) using Microsoft Azure
 - Step 1: Set up a Virtual Machine with basic configurations on Azure Cloud
 - Step 2: Log in to the Virtual Machine using remote desktop
 - Step 3: Set up a Proton VPN account.
-- Step 4: Download and install Porton VPN application
+- Step 4: Download and install Proton VPN application
 
 <h2>Actions</h2>
 <img width="958" alt="image" src="https://github.com/FabAlcindor/VirtualMachinVPN/assets/142107701/a47f2bd5-cbbf-47b6-9619-7194f1ff0610">
