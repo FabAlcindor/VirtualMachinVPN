@@ -39,6 +39,6 @@ Set up a Virtual Machine and Virtual Private Network (VPN) using Microsoft Azure
   <img width="718" alt="Annotation 2023-08-26 170101" src="https://github.com/FabAlcindor/VirtualMachinVPN/assets/142107701/9df33206-e889-48ce-9cda-899affa2f982">
 </p>
 <p>
-  Follow the prompts to download and install prompts. Once it is done, congratulations we have successfuly created both a Virtual Machine and set up an Vpn.
+  Follow the prompts to download and install prompts. Once it is done, congratulations we have successfuly created both a Virtual Machine and set up an Vpn. Once the quick connect button is clicked there maybe be a slight break in the remote desktop connection, but the vpn will be up and running.
 </p>
 <br />
